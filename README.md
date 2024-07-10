@@ -16,12 +16,12 @@ The Healthcare Platform aims to bridge the gap between patients and healthcare p
 
 ## ⚙️ Tech Stack
 The Healthcare Platform is built using the following technologies:
-- **Next.js**: React framework for building server-side rendered applications.
-- **Appwrite**: Open-source backend server that simplifies the development of web and mobile apps.
-- **TypeScript**: TypeScript brings type safety to JavaScript, ensuring more reliable code.
-- **TailwindCSS**: Utility-first CSS framework for designing custom user interfaces.
-- **ShadCN**: Custom component library for reusable UI elements tailored for healthcare applications.
-- **Twilio**: Communication API for integrating SMS notifications and messaging services.
+- **[Next.js](https://nextjs.org/)**: React framework for building server-side rendered applications.
+- **[Appwrite](https://appwrite.io/)**: Open-source backend server that simplifies the development of web and mobile apps.
+- **[TypeScript](https://www.typescriptlang.org/)**: TypeScript brings type safety to JavaScript, ensuring more reliable code.
+- **[TailwindCSS](https://tailwindcss.com/)**: Utility-first CSS framework for designing custom user interfaces.
+- **[ShadCN](https://shadcn.dev/)**: Custom component library for reusable UI elements tailored for healthcare applications.
+- **[Twilio](https://www.twilio.com/)**: Communication API for integrating SMS notifications and messaging services.
 
 ## 🔋 Features
 
