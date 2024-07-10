@@ -1,7 +1,5 @@
 [![Healthcare Platform](https://github.com/masterSoumojit007/healthcare_carepulse/blob/main/public/assets/images/banner.png)](https://healthcare-carepulse.vercel.app/)
 
-# 🏥 Healthcare Platform
-
 ## 📋 Table of Contents
 - [🤖 Introduction](#-introduction)
 - [⚙️ Tech Stack](#️-tech-stack)
