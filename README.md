@@ -1,4 +1,4 @@
-[![Healthcare Platform](https://www.canva.com/design/DAGKiGp5zds/c-7JxtkrEsaLnTY3xCalWg/edit?utm_content=DAGKiGp5zds&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://healthcare-carepulse.vercel.app/)
+[![Healthcare Platform](https://github.com/masterSoumojit007/healthcare_carepulse/blob/main/public/assets/images/banner.png)](https://healthcare-carepulse.vercel.app/)
 
 # 🏥 Healthcare Platform
 
